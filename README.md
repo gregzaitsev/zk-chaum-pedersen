@@ -8,4 +8,4 @@ https://asecuritysite.com/encryption/chaum
 
 ## TODO
 
-[ ] Implement using BigUint instead of u128
+- [ ] Implement using BigUint instead of u128
